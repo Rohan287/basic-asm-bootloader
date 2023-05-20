@@ -1,2 +1,2 @@
 # basic-asm-bootloader
-Basic bootloader coded in assembly
+Basic bootloader coded in assembly.
